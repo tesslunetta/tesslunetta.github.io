@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #e7c9a9;
+  background-color: #99c68e;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -47,7 +47,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #e7c9a9;
+  color: #99c68e;
   padding: 10px 0px 10px 10px;
 }
 
